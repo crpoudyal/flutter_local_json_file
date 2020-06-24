@@ -1,0 +1,104 @@
+[
+    {
+        "name":"Krishna Bastola",
+        "age" : "20",
+        "Degination" : "Software Developer"
+        
+    },
+    {
+        "name":"Roshan Bhattarai",
+        "age" : "28",
+        "Degination" : "Accountent"
+    },
+    {
+        "name":"Dipesh kafle",
+        "age" : "23",
+        "Degination" : "Front-End Developer"
+    },
+    {
+        "name":"mukesh Regmi",
+        "age" : "19",
+        "Degination" : "QA-Quality Assurence "
+       
+    },
+    {
+        "name":"Ganesh Neupane",
+        "age" : "32",
+        "Degination" : "Sr.Flutter Developer"
+       
+    },
+    {
+        "name":"lilit Rajbansi",
+        "age" : "26",
+        "Degination" : "MangoDB Expert"
+      
+    },
+    {
+        "name":"Krishna Bastola",
+        "age" : "20",
+        "Degination" : "Software Developer"
+        
+    },
+    {
+        "name":"Roshan Bhattarai",
+        "age" : "28",
+        "Degination" : "Accountent"
+    },
+    {
+        "name":"Dipesh kafle",
+        "age" : "23",
+        "Degination" : "Front-End Developer"
+    },
+    {
+        "name":"mukesh Regmi",
+        "age" : "19",
+        "Degination" : "QA-Quality Assurence "
+       
+    },
+    {
+        "name":"Ganesh Neupane",
+        "age" : "32",
+        "Degination" : "Sr.Flutter Developer"
+       
+    },
+    {
+        "name":"lilit Rajbansi",
+        "age" : "26",
+        "Degination" : "MangoDB Expert"
+      
+    },
+    {
+        "name":"Krishna Bastola",
+        "age" : "20",
+        "Degination" : "Software Developer"
+        
+    },
+    {
+        "name":"Roshan Bhattarai",
+        "age" : "28",
+        "Degination" : "Accountent"
+    },
+    {
+        "name":"Dipesh kafle",
+        "age" : "23",
+        "Degination" : "Front-End Developer"
+    },
+    {
+        "name":"mukesh Regmi",
+        "age" : "19",
+        "Degination" : "QA-Quality Assurence "
+       
+    },
+    {
+        "name":"Ganesh Neupane",
+        "age" : "32",
+        "Degination" : "Sr.Flutter Developer"
+       
+    },
+    {
+        "name":"lilit Rajbansi",
+        "age" : "26",
+        "Degination" : "MangoDB Expert"
+      
+    }
+]
